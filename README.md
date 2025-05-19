@@ -1,4 +1,4 @@
- ![Texto alternativo]([https://github.com/SamDevFocus/Proa_Trabalhos/blob/master/img/Captura%20de%20Tela%20(5).png](https://github.com/SamDevFocus/Estudando-a-linguagem-C/blob/main/Frame%201.png))
+ ![Texto alternativo](https://github.com/SamDevFocus/Estudando-a-linguagem-C/blob/main/Frame%201.png)
 
 # 📘 Estudos em Linguagem C
 
