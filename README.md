@@ -1,3 +1,5 @@
+ ![Texto alternativo]([https://github.com/SamDevFocus/Proa_Trabalhos/blob/master/img/Captura%20de%20Tela%20(5).png](https://github.com/SamDevFocus/Estudando-a-linguagem-C/blob/main/Frame%201.png))
+
 # 📘 Estudos em Linguagem C
 
 Este repositório foi criado para organizar e documentar meu processo de aprendizagem na linguagem C.
